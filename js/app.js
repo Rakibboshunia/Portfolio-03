@@ -1,4 +1,3 @@
-
 const filter_btns = document.querySelectorAll(".filter-btn");
 const skills_wrap = document.querySelector(".skills");
 const skills_bars = document.querySelectorAll(".skill-progress");
